@@ -1,2 +1,2 @@
-def hello () :
-    return " Hello , GitHub Actions !"
+def hello():
+    return " Hello , GitHub Actions!"
